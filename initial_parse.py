@@ -1,3 +1,5 @@
+'''Original Parse'''
+
 aux = []
 
 with open('information.csv','r') as file1:
